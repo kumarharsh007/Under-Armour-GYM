@@ -1,0 +1,407 @@
+*{
+    margin: 0; /*adding style to whole html file*/
+    padding: 0;
+}
+body{  /*adding style to body tag*/
+    background-image: url(new.jpg) ;
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+}
+.regform{  /*adding style to regform class*/
+    width: 1500px;
+    background-color: rgb(0, 0, 0, 6);
+    margin: auto;
+    color: #ffffff;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    border-radius: 15px 15px 0 0;
+}
+.main{   /*adding style to main class*/
+    background-color: rgb(0, 0, 0, 0.5);
+    width: 1500px;
+    margin: auto;
+}
+form{ /*adding style to form tag*/
+    padding: 10px;
+}
+.name{  /*adding style to name class*/
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+}
+.op{  /*adding style to op class*/
+    position: relative;
+    left: 200px;
+    top: -20px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    background-color: thistle;
+}
+.name007{
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 900px;
+    top: -80px;
+}
+.username{
+    width: 185;
+    position: relative;
+    left: 1010px;
+    top: -105px;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: thistle
+}
+.pass007{
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 1200px;
+    top: -130px;
+}
+.pass{
+    width: 150;
+    position: relative;
+    left: 1300px;
+    top: -155px;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: thistle
+}
+.name1{  /*adding style to name1 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 400px;
+    top: -40px;
+}
+.country{  /*adding style to country class*/
+    position: relative;
+    left: 600px;
+    top: -60px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    background-color: thistle;
+}
+.name2{  /*adding style to name2 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    top: -35px;
+}
+.fname{  /*adding style to fname class*/
+    width: 185;
+    position: relative;
+    left: 200px;
+    top: -60px;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: thistle;
+}
+.firstlabel{  /*adding style to firstlabel class*/
+        position: relative;
+        color: white;
+        font-size: 16px;
+        font-family: serif;
+        left: 200px;
+        top: -60px;
+}
+.lname{  /*adding style to lname class*/
+    width: 185;
+    position: relative;
+    left: 325px;
+    top: -88px;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: thistle;
+}
+.lastlabel{ /*adding style to lastlabel class*/
+        position: relative;
+        color: white;
+        font-size: 16px;
+        font-family: serif;
+        left: 400px;
+        top: -84px;
+}
+.name3{  /*adding style to name3 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 600;
+    top: -130px;
+}
+.firstgender{  /*adding style to firstgender class*/
+    position: relative;
+    color: wheat;
+    font-size: 18px;
+    font-family: serif;
+    left: 700px;
+    top: -149px;
+}
+.gender1{  /*adding style to gender1 class*/
+    position: relative;
+    color: thistle;
+    left: 710px;
+    top: -149px;
+}
+.secondgender{/*adding style to secondgender class*/
+    position: relative;
+    color: wheat;
+    font-size: 18px;
+    font-family: serif;
+    left: 730px;
+    top: -149px;
+}
+.gender2{ /*adding style to gender2 class*/
+    position: relative;
+    color: thistle;
+    left: 740px;
+    top: -149px;
+}
+.thirdgender{ /*adding style to thirdgender class*/
+    position: relative;
+    color: wheat;
+    font-size: 18px;
+    font-family: serif;
+    left: 750px;
+    top: -149px;
+}
+.gender3{  /*adding style to gender3 class*/
+    position: relative;
+    color: thistle;
+    left: 760px;
+    top: -149px;
+}
+.name4{  /*adding style to name4 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 1000px;
+    top: -170px;
+}
+.city{  /*adding style to city class*/
+    position: relative;
+    background-color: thistle;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    left: 1050px;
+    top: -195px;
+}
+.name5{  /*adding style to name5 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    top: -150px;
+}
+.email{ /*adding style to remail class*/
+    width: 400px;
+    position: relative;
+    background-color: thistle;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    left: 200px;
+    top: -175px;
+}
+.name6{  /*adding style to rname6 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 620px;
+    top: -200px;
+}
+.number{ /*adding style to number class*/
+    position: relative;
+    background-color: thistle;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    left: 920px;
+    top: -225px;
+}
+.name7{ /*adding style to name7 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    top: -200px;
+}
+.fees{ /*adding style to fees class*/
+    position: relative;
+    left: 210px;
+    top: -220px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    background-color: thistle; 
+}
+.name8{ /*adding style to name8 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 380px;
+    top: -240px;
+}
+.hotel{ /*adding style to hotel class*/
+    position: relative;
+    left: 620px;
+    top: -260px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    background-color: thistle; 
+}
+.name10{ /*adding style to name10 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 810px;
+    top: -280px;
+}
+.Services{ /*adding style to services class*/
+    width: 250px;
+    position: relative;
+    left: 1230px;
+    top: -300px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    background-color: thistle;
+}
+.name9{ /*adding style to name9 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+}
+.pay{ /*adding style to pay class*/
+    position: relative;
+    left: 225px;
+    top: -295px;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    font-size: 16px;
+    background-color: thistle;
+}
+.name11{  /*adding style to name11 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    top: -275px;
+}
+.cardnumb{ /*adding style to cardnumb class*/
+    position: relative;
+    background-color: thistle;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    left: 200px;
+    top: -300px;
+}
+.name12{ /*adding style to name12 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    top: -275px;
+}
+.name13{ /*adding style to name13 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 420px;
+    top: -325px;
+}
+.nameoncard{ /*adding style to nameoncard class*/
+    position: relative;
+    background-color: thistle;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    left: 580px;
+    top: -350px;
+}
+.name14{ /*adding style to name14 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 800px;
+    top: -375px;
+}
+.expiry{  /*adding style to expiry class*/
+    position: relative;
+    background-color: thistle;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    left: 870px;
+    top: -400px;
+}
+.name15{ /*adding style to name15 class*/
+    position: relative;
+    color: white;
+    font-size: 18px;
+    font-family: serif;
+    left: 1080px;
+    top: -425px;
+}
+.cvv{ /*adding style to cvv class*/
+    position: relative;
+    background-color: thistle;
+    font-size: 16px;
+    line-height: 25px;
+    border-radius: 6px;
+    font-size: 16px;
+    left: 1140px;
+    top: -450px;
+}
+.submit{ /*adding style to submit class*/
+    width: 300px;
+    height: 30px;
+    position: relative;
+    font-size: 16px;
+    line-height: 25px;
+    border-radius: 6px;
+    background-color: steelblue;
+    left: 400px;
+    top: -100px;
+}
+.reset{ /*adding style to reset class*/
+    width: 300px;
+    height: 30px;
+    position: relative;
+    font-size: 16px;
+    line-height: 25px;
+    border-radius: 6px;
+    background-color:maroon;
+    left: 95px;
+    top: -50px;
+}
