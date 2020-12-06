@@ -1,0 +1,225 @@
+@charset "utf-8";
+/* CSS Document */
+.firstdiv{
+	position: relative;
+	background-color:  #F32125;
+	width: auto;
+	height: 100px;
+}
+.logo{
+	position: relative;
+	top: -30px;
+	left: -50px;
+	height: 160px;
+}
+.heading{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 220px;
+}
+.heading1{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 250px;
+}
+.heading2{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 280px;
+}
+.heading3{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 310px;
+}
+.heading4{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 340px;
+}
+.heading5{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 360px;
+}
+.firstbutton{
+	position: relative;
+	top: -100px;
+	left: 350px;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: white;
+	background-color: #20812B;
+	border-radius: 15px;
+}
+.heading:hover{
+	color: black;
+}
+.heading:active{
+	color: antiquewhite;
+}
+.heading1:hover{
+	color: black;
+}
+.heading1:active{
+	color: antiquewhite;
+}
+.heading2:hover{
+	color: black;
+}
+.heading2:active{
+	color: antiquewhite;
+}
+.heading3:hover{
+	color: black;
+}
+.heading3:active{
+	color: antiquewhite;
+}
+.heading4:hover{
+	color: black;
+}
+.heading4:active{
+	color: antiquewhite;
+}
+.heading5:hover{
+	color: black;
+}
+.heading5:active{
+	color: antiquewhite;
+}
+.firstbutton:hover{
+	background-color: black;
+}
+.secondiv{
+	position: relative;
+	background-image: url("../images/total-shape-TY_Ce5d2G-k-unsplash.jpg");
+	width: auto;
+	height: 650px;
+}
+.thirdiv{
+	position: relative;
+	background-color: aquamarine;
+	text-align: end;
+	width: auto;
+	top: -20px;
+	height: 25px;
+}
+.gymname{
+	position: relative;
+	font-family: "fredericka-the-great";
+	font-size: 48px;
+	color: white;
+	left: 520px;
+	top: 40px;
+}
+.timing{
+	position: relative;
+	font-family: "fredericka-the-great";
+	font-size: 20px;
+	color: white;
+	top: 40px;
+	left: 925px;
+}
+.trainers{
+	position: relative;
+	font-family: "fredericka-the-great";
+	font-size: 20px;
+	color: white;
+	top: 60px;
+	left: 680px;
+	
+}
+.firsttrainer{
+	position: relative;
+	height: 400px;
+	width: 400px;
+	background-color: aqua;
+	background-image: url("../images/firsttrainer.jpg");
+	top : 70px;
+	left:10px;
+}
+.secondtrainer{
+	position: relative;
+	height: 400px;
+	width: 400px;
+	background-color: aqua;
+	background-image: url("../images/secondtrainer.jpg");
+	top : -330px;
+	left:430px;
+}
+.thirdtrainer{
+	position: relative;
+	height: 469px;
+	width: 313px;
+	background-color: aqua;
+	background-image: url("../images/thirdtrainer.jpg");
+	top : -729px;
+	left:840px;
+}
+.fourthtrainer{
+	position: relative;
+	height: 450px;
+	width: 270px;
+	background-color: aqua;
+	background-image: url("../images/fourthtrainer.jfif");
+	top : -1200px;
+	left:1200px;
+}
+.quote{
+	position: relative;
+	top: 40px;
+	left: 650px;
+}
+.findgym{
+	position: relative;
+	font-family: "black-ops-one";
+	font-size: 30px;
+	background-color: transparent;
+	top : 100px;
+	left : 280px;
+	border: dotted #18800F;
+	color: white;
+}
+.clickme{
+	position: relative;
+	font-family: "black-ops-one";
+	font-size: 30px;
+	background-color: coral;
+	border-radius: 5px;
+	top : 100px;
+	left: 330px;
+	color: black;
+}
+.clickme:hover{
+	background-color: chartreuse;
+}
+#txtHint{
+	position: relative;
+	color: white;
+	top: 130px;
+}
