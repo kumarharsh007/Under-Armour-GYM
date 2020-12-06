@@ -1,0 +1,194 @@
+@charset "utf-8";
+/* CSS Document */
+.firstdiv{
+	position: relative;
+	background-color:  #F32125;
+	width: auto;
+	height: 100px;
+}
+.logo{
+	position: relative;
+	top: -30px;
+	left: -50px;
+	height: 160px;
+}
+.heading{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 220px;
+}
+.heading1{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 250px;
+}
+.heading2{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 280px;
+}
+.heading3{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: black;
+	top: -100px;
+	left: 310px;
+}
+.heading4{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 340px;
+}
+.heading5{
+	position: relative;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: aqua;
+	top: -100px;
+	left: 360px;
+}
+.firstbutton{
+	position: relative;
+	top: -100px;
+	left: 350px;
+	font-family: sans-serif;
+	font-size: 30px;
+	color: white;
+	background-color: #20812B;
+	border-radius: 15px;
+}
+.heading:hover{
+	color: black;
+}
+.heading:active{
+	color: antiquewhite;
+}
+.heading1:hover{
+	color: black;
+}
+.heading1:active{
+	color: antiquewhite;
+}
+.heading2:hover{
+	color: black;
+}
+.heading2:active{
+	color: antiquewhite;
+}
+.heading3:hover{
+	color: black;
+}
+.heading3:active{
+	color: antiquewhite;
+}
+.heading4:hover{
+	color: black;
+}
+.heading4:active{
+	color: antiquewhite;
+}
+.firstbutton:hover{
+	background-color: black;
+}
+.secondiv{
+	position: relative;
+	background-image: url("../images/kaleb-tapp-J59wWPn09BE-unsplash.jpg");
+	width: auto;
+	height: 650px;
+}
+.thirdiv{
+	position: relative;
+	background-color: aquamarine;
+	text-align: end;
+	width: auto;
+	top: -20px;
+	height: 25px;
+}
+.gymname{
+	position: relative;
+	font-family: "fredericka-the-great";
+	font-size: 48px;
+	color: white;
+	left: 520px;
+	top: 40px;
+}
+.timing{
+	position: relative;
+	font-family: "fredericka-the-great";
+	font-size: 20px;
+	color: white;
+	top: 40px;
+	left: 925px;
+}
+.trainers{
+	position: relative;
+	font-family: "fredericka-the-great";
+	font-size: 40px;
+	color: yellowgreen;
+	top: 60px;
+	left: 680px;
+	
+}
+.aboutus{
+	position: relative;
+	color:tomato;
+	font-size: 25px;
+	top : 60px;
+	left: 10px;
+}
+.quote{
+	position: relative;
+	top: 40px;
+	left: 650px;
+}
+.findgym{
+	position: relative;
+	font-family: "black-ops-one";
+	font-size: 30px;
+	background-color: transparent;
+	top : 100px;
+	left : 280px;
+	border: dotted #18800F;
+	color: white;
+}
+.clickme{
+	position: relative;
+	font-family: "black-ops-one";
+	font-size: 30px;
+	background-color: coral;
+	border-radius: 5px;
+	top : 100px;
+	left: 330px;
+	color: black;
+}
+.clickme:hover{
+	background-color: chartreuse;
+}
+#txtHint{
+	position: relative;
+	color: white;
+	top: 130px;
+}
+a.heading5 {
+	pointer-events: none;
+	cursor: default;
+  }
